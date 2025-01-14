@@ -8,6 +8,13 @@ Regional sales disparities, highlighting underperforming Central regions.
 Profitability analysis, emphasizing low-margin product categories like office supplies.
 Customer segmentation insights, driving focus on retention and acquisition strategies.
 
+My insights and tasks :
+Developed a comprehensive Power BI dashboard by cleaning and transforming raw Kaggle data, establishing relational database connections to ensure accuracy.
+Created interactive visualizations to analyze sales trends, regional performance, and category profitability, highlighting a 15% profit growth in Technology and a 5% decline in Furniture sales.
+Identified underperforming regions, enabling targeted marketing strategies that projected an 18% Q4 sales growth.
+Implemented predictive analytics to forecast peak sales periods, optimizing inventory management and increasing operational efficiency.
+Recommended actionable insights, such as improved vendor negotiations for Office Supplies and loyalty programs, driving enhanced customer retention.
+
 Predictive Analytics: Integrated predictive models forecast 18% Q4 sales growth, enabling data-driven inventory and marketing decisions.
 Impact: Delivered actionable recommendations to optimize regional performance, product promotions, and customer lifetime value, boosting business profitability and decision-making efficiency.
 📊 SuperStore Sales Analytics Dashboard Overview 🔍
